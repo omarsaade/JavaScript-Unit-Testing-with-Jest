@@ -1,0 +1,19 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "For Unit Testing Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest.git"
+  },
+  "author": "omarsaade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest#readme"
+}

@@ -1,0 +1,53 @@
+npm init
+node package manager initialize? 
+mihsen na3mil initialize la machru3 jdid
+
+
+
+//// first step
+0-mkdir folder esmo JEST bel document and git bash jaweto 
+-and download Nodejs men el website 3ade > node -v 
+bta3mul check iza 3andak node
+1- npm init
+2- PackageName: Jest Testing
+3-version:1.0.0
+4-Descirption: ktob aya shi
+5-enter enter enter.. yes
+
+result: bye5la2 3ana file esmo
+package.json bi albo 
+<<<<<<<{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "For Unit Testing Course",
+  "main": "index.js",
+  .....}>>>>>>>>
+
+next step:
+---------------
+Setup and install jest framework
+
+6- npm install --save-dev jest aw npm i jest --save-dev
+//yaane enta ha tnazel el package hayde lel development bash
+//mesh aktar..mesh men demen el machru3
+
+
+//amma iza badak yeh men demen el machru3 w required w bta3mul run
+bt2elo //     npm i jest --save
+
+
+finally
+bel package.json
+
+
+   lezem tfade mu7tawa el test w thet jaweto jest
+   like this tahet
+--> "scripts": {
+    "test": "jest"
+  },
+
+  w tnazel jest men visual studio code
+
+
+
+---------------------
