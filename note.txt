@@ -51,3 +51,18 @@ bel package.json
 
 
 ---------------------
+
+
+/*
+Matchers method: yaane hene methods ma3mulin bi sahlo 3lek 3amalyet le testing  bidun ma tektob native code
+.toHaveLength
+.not.toHaveLength
+.toContain
+.not.toContain
+toHaveProperty
+toBeFalsy
+toBeLessThan
+toBeUndefined
+toHaveProperty
+
+*/
