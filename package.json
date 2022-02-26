@@ -16,8 +16,12 @@
     "url": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest/issues"
   },
   "jest":{
+    "//1":"Collect Coverage Option",
     "collectCoverage": true,
-    "coverageReporters": ["html"]
+    "coverageReporters": ["html"],
+    "coverageDirectory":"reports",
+    "collectCoverageFrom":["**/*.{js,jsx,ts}"],
+    "coveragePathIgnorePatterns":["/node_modules/","/build/"]
   },
   "homepage": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest#readme",
   "dependencies": {
