@@ -3,18 +3,7 @@ theSum Function
 [1]Return 0 if no number
 [2]Return the numbers
 [3]return 2 numbers or 3 nummbers
-[4]....
-
-
-
-
-
-
-*/
-
-
-
-
+[4]....*/
 
 // const theSum = num => num;
 //function name theSum ,  ex: function theSum()

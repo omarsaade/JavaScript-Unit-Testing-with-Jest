@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest/issues"
   },
-  "homepage": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest#readme"
+  "jest":{
+    "collectCoverage": true,
+    "coverageReporters": ["html"]
+  },
+  "homepage": "https://github.com/omarsaade/JavaScript-Unit-Testing-with-Jest#readme",
+  "dependencies": {
+    "coverage": "^0.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }

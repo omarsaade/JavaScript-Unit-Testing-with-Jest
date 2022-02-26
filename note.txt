@@ -66,3 +66,9 @@ toBeUndefined
 toHaveProperty
 
 */
+
+Code Coverage
+npm -- --Coverage
+
+
+mock function
