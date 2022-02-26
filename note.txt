@@ -4,6 +4,19 @@ mihsen na3mil initialize la machru3 jdid
 
 
 
+///////////////////////////
+very important :
+tal5is jest bi hawde el 2 links
+https://github.com/sapegin/jest-cheat-sheet
+
+https://devhints.io/jest
+
+
+/////////////////////
+
+
+
+
 //// first step
 0-mkdir folder esmo JEST bel document and git bash jaweto 
 -and download Nodejs men el website 3ade > node -v 
